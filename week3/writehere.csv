@@ -1,0 +1,7 @@
+
+Joan,boy,"DataSheet([Course('Matematik', 'a1', 'svend bent', '10', 4), Course('Svensk', 'a3', 'henrik hapengut', '10', 10)])",pancake.img
+Bent,odder,"DataSheet([Course('Dansk', 'a2', 'jørgen jetjæger', '20', 10), Course('Svensk', 'a3', 'henrik hapengut', '10', 10)])",pancake.img
+Bent,girl,"DataSheet([Course('Matematik', 'a1', 'svend bent', '10', 2), Course('Dansk', 'a2', 'jørgen jetjæger', '20', 10)])",pancake.img
+Jørgen,boy,"DataSheet([Course('Matematik', 'a1', 'svend bent', '10', 2), Course('Svensk', 'a3', 'henrik hapengut', '10', 10)])",pancake.img
+Svend,odder,"DataSheet([Course('Matematik', 'a1', 'svend bent', '10', 10), Course('Dansk', 'a2', 'jørgen jetjæger', '20', 12)])",pancake.img
+Joan,odder,"DataSheet([Course('Dansk', 'a2', 'jørgen jetjæger', '20', 12), Course('Tysk', 'a4', 'svend sved', '10', 0)])",pancake.img
